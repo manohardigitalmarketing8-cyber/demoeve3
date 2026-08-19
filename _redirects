@@ -1,0 +1,14 @@
+# Cloudflare Pages Redirects
+# Clean URLs without .html extensions
+
+/about          /about/          301
+/services       /services/       301
+/weddings       /weddings/       301
+/corporate-events /corporate-events/ 301
+/live-shows     /live-shows/     301
+/entertainment  /entertainment/  301
+/productions    /productions/    301
+/dj-services    /dj-services/    301
+/portfolio      /portfolio/      301
+/gallery        /gallery/        301
+/contact        /contact/        301

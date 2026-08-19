@@ -1,0 +1,12 @@
+# Robots.txt for SR Evenntss - Premium Event Management
+# https://www.srevents.com
+
+User-agent: *
+Allow: /
+Disallow: /tmp/
+
+# Sitemaps
+Sitemap: https://www.srevents.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
